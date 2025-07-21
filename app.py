@@ -3,6 +3,7 @@ from utils import run_agent_sync
 
 st.set_page_config(page_title="MCP POC", page_icon="🤖", layout="wide")
 
+st.title("Skill Pilot")
 st.title("Model Context Protocol(MCP) - Learning Path Generator")
 
 # Initialize session state for progress
